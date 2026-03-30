@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Prajwal Naik A MERN Stack Developer
+Hi, I'm Prajwal Naik MERN Stack Developer | Experienced in MongoDB, Express.js, React, and Node.js | Transforming Ideas into Digital Reality | Coding Enthusiast 🙂
 
 
 ## 🌐 Socials:
